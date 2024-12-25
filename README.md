@@ -1,2 +1,3 @@
 # resources
-Resources used by README from other repositories
+
+Resources used by README from other repositories.
